@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: df2258ff406783f4fbadca35fbd44997
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 66
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 41, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920c2376876fae948934a422756daf2a
+      internalID: -117947638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_1
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 208
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3dc8da8bec0ae4d95263797c82d2b2
+      internalID: -1356985386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_2
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 382
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54169fb771ccba46bb255017d80216c
+      internalID: -388621544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_3
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 334
+        width: 452
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33acbbd516ccf4b85146b3c460b041
+      internalID: -74268921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_4
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 0
+        width: 19
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5921b78244a2a42b5bc5ae520cf81e
+      internalID: -575611646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_5
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 0
+        width: 107
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dd430072d83fd4f9c276b2ddcc2e95
+      internalID: -1898235371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_6
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 271
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0c6cf19ec390439d668649b245351
+      internalID: -1296284562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 0
+        width: 20
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0d359e0602a44ba0c1acd1a7633d7
+      internalID: -314438751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_8
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 254
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1446baa30ef6e46924e27153ed0004
+      internalID: -1902688527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_9
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 0
+        width: 19
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60a5f8ee40e8ca49985c7ace33ebda1
+      internalID: 2066811812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_10
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 286
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758127c93b3f8e44bfa1717975ed2fc
+      internalID: -573075779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_11
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 0
+        width: 19
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be0fb4b93b1bb47abd6fb6d59a6ab7
+      internalID: 909206850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_12
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 0
+        width: 20
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d559d44d0f9946499d5cdc90a4faa59
+      internalID: 1951327389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_13
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 271
+        width: 180
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025cf5918ab98434a99d00582e73ad4e
+      internalID: -457131864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_14
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 0
+        width: 20
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aecbd47037957544b79cf07f6baf633
+      internalID: -331057755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_15
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 274
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833695f58da9594da2824077cb52a2c
+      internalID: 720489107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_16
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 238
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1269313ca56a143a63c20c25e3b6f3
+      internalID: -1936195410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_17
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 254
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bf6212b3f124046835e27a205b6bf4
+      internalID: 1193031973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_18
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 238
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36a4eb46245e6e47bd4bf178965051b
+      internalID: -2054817709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_19
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 190
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249322636c169747a20448a94fc0b4e
+      internalID: 1999941238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_20
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 20
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e94c0b347e4b4aaa972d8fe5d093d
+      internalID: 1847719355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_21
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 0
+        width: 19
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b6e1194b35924a84a3681013db912
+      internalID: -371608200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_22
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 206
+        width: 147
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72fa15903a52314dbe15dfa715e0d0c
+      internalID: 566259057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_23
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 19
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd21a5b7318e3438dd6829f2d863b4
+      internalID: 2048661089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_24
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 19
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6c77e2c5c95df4b89fb130ee09fd0a
+      internalID: 1087353388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_25
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 211
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef4f615240d8c943b8801b6ca336699
+      internalID: -1156146341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_26
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 223
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e074bd79f4ef6e47b7b28665f44ccc6
+      internalID: 125198690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_27
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 223
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf914d8e5a42644980bd37059cfb99
+      internalID: 1931572781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_28
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 206
+        width: 147
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32d4cb9fd58644ba67d0ca3f3ce0f0
+      internalID: -1149602507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_29
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 190
+        width: 115
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07cbfcfe4202e84694bdca6696f20ce
+      internalID: -1396165239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 158
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de000f914728c644e974388d57c1a753
+      internalID: 2137100014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_31
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 158
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73633946035bd445969c2ae37dc96b5
+      internalID: 1742182798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_32
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 146
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d145854b1fd32d04a9e0e93b850fb006
+      internalID: -1297693166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_33
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 142
+        width: 115
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ba9f960522f74a9b2a1ff238372af
+      internalID: 542154967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3aba65aa96fe45afb7f723d24b176
+      internalID: 651188513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 20
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3e6f9bd407c2a4a811a8e57d500dd6
+      internalID: 413898955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_36
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 19
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2755112f04b24fa7d612538590575
+      internalID: -783408346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_37
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 20
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b74df6c38d18f40a4e12b59ae9b163
+      internalID: 1518347704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_38
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 0
+        width: 19
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850970f37d0d7d46b1a387554832117
+      internalID: 1643777320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_39
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 45
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16754af0de2b9b949903d12ee930ff9e
+      internalID: 340569179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_40
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 110
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c9fba57e87db43af36ec99e60a2c7
+      internalID: 1481190506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4231263f3638e4ea34c9e66b729a2a
+      internalID: -134523497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_42
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1539e9122f3f649950000432e4e122
+      internalID: -964861367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 19
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b84c190441b941970bf1d9653b5be
+      internalID: -2101758390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_44
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 19
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dee2d3c18161e49ace195b4a09c032
+      internalID: -1799217819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_45
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 20
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f92ae8f5bcdc8c42bd7985679461900
+      internalID: -1148905920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_46
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 79
+        width: 116
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18121ee0d6149f243b082bb342439de0
+      internalID: -1770754925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Mario World - Butter Bridge 1 12_47
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 0
+        width: 257
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2121f0816588419d190ccc43afe09
+      internalID: -46207526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Super Mario World - Butter Bridge 1 12_33: 542154967
+      SNES - Super Mario World - Butter Bridge 1 12_28: -1149602507
+      SNES - Super Mario World - Butter Bridge 1 12_41: -134523497
+      SNES - Super Mario World - Butter Bridge 1 12_47: -46207526
+      SNES - Super Mario World - Butter Bridge 1 12_34: 651188513
+      SNES - Super Mario World - Butter Bridge 1 12_22: 566259057
+      SNES - Super Mario World - Butter Bridge 1 12_8: -1902688527
+      SNES - Super Mario World - Butter Bridge 1 12_20: 1847719355
+      SNES - Super Mario World - Butter Bridge 1 12_29: -1396165239
+      SNES - Super Mario World - Butter Bridge 1 12_16: -1936195410
+      SNES - Super Mario World - Butter Bridge 1 12_31: 1742182798
+      SNES - Super Mario World - Butter Bridge 1 12_2: -388621544
+      SNES - Super Mario World - Butter Bridge 1 12_1: -1356985386
+      SNES - Super Mario World - Butter Bridge 1 12_38: 1643777320
+      SNES - Super Mario World - Butter Bridge 1 12_17: 1193031973
+      SNES - Super Mario World - Butter Bridge 1 12_11: 909206850
+      SNES - Super Mario World - Butter Bridge 1 12_42: -964861367
+      SNES - Super Mario World - Butter Bridge 1 12_18: -2054817709
+      SNES - Super Mario World - Butter Bridge 1 12_26: 125198690
+      SNES - Super Mario World - Butter Bridge 1 12_44: -1799217819
+      SNES - Super Mario World - Butter Bridge 1 12_46: -1770754925
+      SNES - Super Mario World - Butter Bridge 1 12_35: 413898955
+      SNES - Super Mario World - Butter Bridge 1 12_24: 1087353388
+      SNES - Super Mario World - Butter Bridge 1 12_3: -74268921
+      SNES - Super Mario World - Butter Bridge 1 12_9: 2066811812
+      SNES - Super Mario World - Butter Bridge 1 12_14: -331057755
+      SNES - Super Mario World - Butter Bridge 1 12_30: 2137100014
+      SNES - Super Mario World - Butter Bridge 1 12_36: -783408346
+      SNES - Super Mario World - Butter Bridge 1 12_40: 1481190506
+      SNES - Super Mario World - Butter Bridge 1 12_4: -575611646
+      SNES - Super Mario World - Butter Bridge 1 12_7: -314438751
+      SNES - Super Mario World - Butter Bridge 1 12_13: -457131864
+      SNES - Super Mario World - Butter Bridge 1 12_43: -2101758390
+      SNES - Super Mario World - Butter Bridge 1 12_0: -117947638
+      SNES - Super Mario World - Butter Bridge 1 12_27: 1931572781
+      SNES - Super Mario World - Butter Bridge 1 12_45: -1148905920
+      SNES - Super Mario World - Butter Bridge 1 12_25: -1156146341
+      SNES - Super Mario World - Butter Bridge 1 12_32: -1297693166
+      SNES - Super Mario World - Butter Bridge 1 12_5: -1898235371
+      SNES - Super Mario World - Butter Bridge 1 12_23: 2048661089
+      SNES - Super Mario World - Butter Bridge 1 12_10: -573075779
+      SNES - Super Mario World - Butter Bridge 1 12_21: -371608200
+      SNES - Super Mario World - Butter Bridge 1 12_19: 1999941238
+      SNES - Super Mario World - Butter Bridge 1 12_6: -1296284562
+      SNES - Super Mario World - Butter Bridge 1 12_15: 720489107
+      SNES - Super Mario World - Butter Bridge 1 12_12: 1951327389
+      SNES - Super Mario World - Butter Bridge 1 12_39: 340569179
+      SNES - Super Mario World - Butter Bridge 1 12_37: 1518347704
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
