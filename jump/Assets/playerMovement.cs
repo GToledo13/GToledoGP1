@@ -110,9 +110,9 @@ public class playerMovement : MonoBehaviour
 
     IEnumerator PowerUpSpeed()
     {
-        moveSpeed = 9;
+        moveSpeed = 20;
         yield return new WaitForSeconds(5);
-        moveSpeed = 5;
+        moveSpeed = 15;
 
     }
 
